@@ -1,4 +1,4 @@
-# sdfdsuca2016 abcd
+# uca 2016 Project
 1. Install Node
 
 	a. $sudo apt-get install nodejs
